@@ -1,8 +1,8 @@
 from binance.client import Client
 import pandas as pd
 import math
-api_key = 'FNy2gKEWzs8mYjW0y60UWsNgtvSM9Dak9qypZEEzDtFhgIGgCsslrG5bXFz9HBVE'
-api_secreat = 'quXmaGLmCj8AAT5stEtOGpC1I3C6lrIE8wkrDC27f0Pm4ghmvaJsteNr6D8q6D7z'
+api_key = ''
+api_secreat = ''
 client = Client(api_key, api_secreat)
 
 class Services():
